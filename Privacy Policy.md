@@ -339,8 +339,7 @@ If you are located in California, United States, the California Consumer Privacy
 If you have any questions about this Privacy Policy, You can contact us:
 
 - **By email**: muzlikgamer@gmail.com
-- **By GitHub**: https://github.com/your-repo/WhitelistBot/issues
-- **By Discord**: Join the support server (link available on GitHub)
+- **By Discord**: [Join the support server)](https://discord.gg/zyqsPMnXpU)
 
 We will respond to privacy inquiries within 30 days.
 
